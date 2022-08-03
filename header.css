@@ -1,0 +1,51 @@
+header {
+    width: 100%;
+    padding: 15px 130px;
+    background-color: #f3f3f3;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+header img {
+    width: 55%;
+    position: relative;
+    top: 10px;  
+    cursor: pointer;
+}
+
+.nav-bar li {
+    display: inline-block;
+    padding-right: 10px;
+}
+.nav-bar li a {
+    text-decoration: none;
+    color: #000000;
+    padding-right: 10px;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+
+.sub-header-content {
+    margin-top: 0;
+    background-color: #f3f3f3;
+    width: 50%;
+    padding: 70px 130px;
+}
+.sub-header-content video {
+    width: 100%;
+    position: relative;
+    right: 100px;
+}
+.sub-header-content a {
+    position: relative;
+    top: 10px;
+    left: 55px;
+    text-align: center;
+    text-decoration: none;
+    color: #23a2f1;
+    font-size: large;
+} 
+.sub-header-content img {
+    width: 30px;
+}

@@ -1,0 +1,33 @@
+.blue-color {
+    color: #2ab9f2;
+}
+.green-color {
+    color: #05a360;
+}
+.orange-color {
+    color: #f14e1b;
+}
+.purple-color {
+    color: #605aac;
+}
+.yellow-color {
+    color: #f9aa1a;
+}
+.white-color {
+    color: #ffffff;
+}
+.blue-background {
+    background-color: #2ab9f2;
+}
+.header-background {
+    background-color: #f3f3f3;
+}
+.white-background {
+    background-color: #ffffff;
+}
+.yellow-background {
+    background-color: #f2cb05;
+}
+.transparent-background {
+    background-color: #f5f5f56e;
+}

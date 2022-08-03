@@ -1,0 +1,32 @@
+.header-button {
+    background-color: #5f54fd;
+    color: #ffffff;
+    border-color: transparent;
+    padding: 10px 25px;
+    border-radius: 30px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.header-button-outer-layer {
+    border: 2px solid #5f54fd;
+    padding: 4px;
+    border-radius: 30px;
+}
+.primary-button {
+    background-color: #4a0081;
+    color: #ffffff;
+    border-color: transparent;
+    font-size: 15px;
+    padding: 20px 30px;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+.secondary-button {
+    background-color: #4a0081;
+    color: #ffffff;
+    border-color: transparent;
+    font-size: 20px;
+    padding: 20px 40px;
+    border-radius: 5px;
+}
