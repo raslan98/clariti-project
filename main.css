@@ -8,6 +8,7 @@ body {
 h1 {
     font-size: 38px;
     line-height: 50px;
+    margin: 0;
 }
 h2 {
     font-weight: 600;
@@ -24,4 +25,14 @@ p{
 .padding-left {
     padding-left: 140px;
 }
+.margin-top {
+    margin-top: -10px;
+}
+.f-50 {
+    font-size: 50px;
+}
+.margin {
+    margin: 20px 150px;
+}
+
 

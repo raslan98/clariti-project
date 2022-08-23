@@ -1,0 +1,28 @@
+footer {
+    background-color: #413b84;
+    padding: 60px 110px 5px 130px;
+}
+footer img {
+    width: 50%;
+}
+.footer-content {
+    width: 35%;
+    padding-right: 115px;
+}
+.footer-anchor-tag {
+    width: 65%;
+    text-align: right;
+    padding: 80px 0 40px 0;
+}
+.footer-anchor-tag a {
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+    font-size: 14px;
+}
+.footer-anchor-tag a:hover {
+    text-decoration: underline;
+}
+.footer-copyright {
+    text-align: center;
+}

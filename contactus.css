@@ -1,0 +1,49 @@
+.content-contact {
+    text-align: center;
+    margin-top: 60px;
+}
+.content-contact img {
+    width: 5%;
+}
+.contact-card {
+    position: relative;
+    border: 1px solid #ececeb;
+    text-align: center;
+    width: 20%;
+    padding: 50px 10px;
+    margin-top: 50px;
+}
+.i-circle {
+    background: #0366a3;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+.contact-card i {
+    position: absolute;
+    font-size: 60px;
+    top: -52px;
+    left: 66px;
+    color: white;
+}
+.fa-comments::before {
+    position: relative;
+    bottom: -15px;
+}
+.contact-card h3 {
+    padding-bottom: 30px;
+    max-height: 30px;
+}
+.contact-card h4 {
+    text-align: left;
+    font-weight: 400;
+}
+
+.address {
+    margin-top: 70px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.address h1 {
+    text-decoration: underline;
+}

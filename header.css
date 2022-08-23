@@ -1,7 +1,6 @@
 header {
     width: 100%;
     padding: 15px 130px;
-    background-color: #f3f3f3;
     position: sticky;
     top: 0;
     z-index: 1;
@@ -19,7 +18,6 @@ header img {
 }
 .nav-bar li a {
     text-decoration: none;
-    color: #000000;
     padding-right: 10px;
     font-weight: 500;
     font-size: 17px;
@@ -29,7 +27,7 @@ header img {
 .sub-header-content {
     margin-top: 0;
     background-color: #f3f3f3;
-    width: 50%;
+    width: 100%;
     padding: 70px 130px;
 }
 .sub-header-content video {
@@ -48,4 +46,12 @@ header img {
 } 
 .sub-header-content img {
     width: 30px;
+}
+
+.sub-header {
+    width: 100%;
+    text-align: center;
+    margin-top: 0;
+    padding-top: 50px;
+    padding-bottom: 100px;
 }

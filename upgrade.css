@@ -1,0 +1,12 @@
+.upgrades {
+    padding: 50px 30px;
+    text-align: center;
+    margin: 0;
+}
+.upgrade-flex {
+    width: 15%;
+    margin-top: 40px;
+}
+.upgrade-flex img {
+    width: 35%;
+}
