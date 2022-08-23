@@ -1,1 +1,0 @@
-# clariti-project
